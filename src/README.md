@@ -37,4 +37,6 @@ Uno te lo hacea todo directamente(Crear con README) y el otro no pero si te da c
 aqui esta
 ![comentario](/home/oriol.canellas.7e3/Imatges/Captures de pantallaCaptura de pantalla de 2024-11-28 09-40-07.png)
 #2.1.6 Vincula el repositorio remoto con el repositorio local.
+primera part
+![perimera part](/home/oriol.canellas.7e3/Imatges/Captures de pantalla/Captura de pantalla de 2024-11-28 09-46-27.png)
 
