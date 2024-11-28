@@ -22,3 +22,19 @@ creados agragados i commit echo
 ![comentario](/home/oriol.canellas.7e3/Imatges/Captures de pantalla/Captura de pantalla de 2024-11-28 09-17-23.png)
 #1.3.1 Haz un git add de todos los archivos y realiza un commit inicial con el mensaje:
 Devdo a que ja esta echo are un commit de los cambios
+![comentario](/home/oriol.canellas.7e3/Imatges/Captures de pantallaCaptura de pantalla de 2024-11-28 09-21-51.png)
+#2.1.1 Entra en GitHub y crea un repositorio.
+Creacion de un repositorio con README
+![imagen de creacion](/home/oriol.canellas.7e3/Imatges/Captures de pantalla/Captura de pantalla de 2024-11-28 09-28-32.png)
+![Completada creacio](/home/oriol.canellas.7e3/Imatges/Captures de pantalla/Captura de pantalla de 2024-11-28 09-31-14.png)
+#2.1.2 ¿Qué pasa si creo un repositorio con el archivo README.md desde GitHub?
+pasa que te viene con una fitxero README i que te hace un comit directamente
+#2.1.3 ¿Qué pasa si crea un repositorio sin el archivo README.md desde GitHub?
+Que te viene sin el README y sin el commit autromatico
+#2.1.4 Explica las diferencias entre las 2 preguntas anteriores.
+Uno te lo hacea todo directamente(Crear con README) y el otro no pero si te da comandos para empezar
+#2.1.5 Indica que comandos te da GitHub al crear un repositorio. Los encontrarás en el apartado …or create a new repository on the command line 
+aqui esta
+![comentario](/home/oriol.canellas.7e3/Imatges/Captures de pantallaCaptura de pantalla de 2024-11-28 09-40-07.png)
+#2.1.6 Vincula el repositorio remoto con el repositorio local.
+
