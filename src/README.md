@@ -39,4 +39,32 @@ aqui esta
 #2.1.6 Vincula el repositorio remoto con el repositorio local.
 primera part
 ![perimera part](/home/oriol.canellas.7e3/Imatges/Captures de pantalla/Captura de pantalla de 2024-11-28 09-46-27.png)
+segona part
+![segona part](/home/oriol.canellas.7e3/Imatges/Captures de pantalla/Captura de pantalla de 2024-12->
+#2.2.1 Crea una nueva rama llamada feature/documentacion y cámbiate a ella. 
+![creada](/home/oriol.canellas.7e3/Imatges/Captura de pantalla de 2024-12-05 08-26-20.png)
+#2.2.2 Cambia a la nueva rama:
+# Crea un archivo docs.md en la carpeta raíz. Escribe un resumen de las funcionalidades del proyecto.
+#Haz un commit con el mensaje:
+# Agregada documentación inicial del proyecto.
+![crecio](/home/oriol.canellas.7e3/Imatges/Captura de pantalla de 2024-12-05 08-35-53.png)
+![comit realitzat](/home/oriol.canellas.7e3/Imatges/Captura de pantalla de 2024-12-05 08-40-29.png)
+# 2.2.3 Cambia a la rama main y usa git diff para comparar las diferencias entre main y feature/docu>
+![cambia de branca](/home/oriol.canellas.7e3/Imatges/Captura de pantalla de 2024-12-05 08-42-00.png)
+![diff realitzat](/home/oriol.canellas.7e3/Imatges/Captura de pantalla de 2024-12-05 08-45-37.png)
+# 2.3 Desde la rama main, realiza un git pull para simular la descarga de cambios del remoto. Si hay>
+![git pull fet sense provlemas](/home/oriol.canellas.7e3/Imatges/Captura de pantalla de 2024-12-05 0>
+# 3.1.1 Crea un nuevo archivo llamado src/app.py con un mensaje básico (print("Hola, mundo!")).
+# 3.3.2 Haz un add y luego un commit. Verifica su estado con  status o con algún comando alias que h>
+# 3.1.3 Visualiza el historial de commit con log o con algún comando alias que hayas creado tú.
+# 3.1.4 Si has utilizado comandos alias, indica el equivalente al comando alias. Por ejemplo, mi com>
+![3.1.1 3.1.2](/home/oriol.canellas.7e3/Imatges/Captura de pantalla de 2024-12-05 08-56-43.png)
+![3.1.3](/home/oriol.canellas.7e3/Imatges/Captura de pantalla de 2024-12-05 08-59-27.png)
+3.1.4 comando alias git cm para los commits y git s para el status
+# 3.2 Borra el archivo src/app.py usando un comando de terminal. Recupera el archivo con el comando >
+![Borrar fixer](/home/oriol.canellas.7e3/Imatges/Captura de pantalla de 2024-12-05 09-10-06.png)
+![recuperat](/home/oriol.canellas.7e3/Imatges/Captura de pantalla de 2024-12-05 09-16-38.png)
+# 3.3.1 Desde main, haz un merge de feature/documentacion.
+# 3.3.2 Usa log o un alias para verificar los cambios realizados y el historial.
+![fet sense commit](/home/oriol.canellas.7e3/Imatges/)
 
