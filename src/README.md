@@ -6,7 +6,7 @@
   He usado mkdir para crearlo
 # 1.1.3 Crea un archivo README.md en GitApellido1Nombre2425 con una breve descripción del proyecto, usa costantemente el terminal.
   Usado touch para crearlo
-! [Imagen de los tres primetros apartados](../imges/Captura de pantalla de 2024-11-28 08-31-43.png)
+! [Imagen de los tres primetros apartados](../imge/Captura de pantalla de 2024-11-28 08-31-43.png)
 # 1.2.1 Entra en el directorio y conviértelo en un repositorio Git.
   iniciamos el repositorio y subimos el src
 ! [Imagen de icializar repositorio](/home/oriol.canellas.7e3/Imatges/Captures de pantalla/Captura de pantalla de 2024-11-28 08-33-49.png)
